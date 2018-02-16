@@ -43,7 +43,7 @@ parameters:
 - description: Git source URI for application
   name: SOURCE_URL
   required: true
-  value: https://github.com/emailtovinod/wip.git
+  value: https://github.com/emailtovinod/wip
 - description: Git branch/tag reference
   name: SOURCE_REF
   value: master
