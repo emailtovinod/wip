@@ -1,6 +1,6 @@
-def devProject = "ocp-tasks-23"
-def uatProject = "cloudapps-uat"
-def prodProject = "cloudapps-prod"
+def devProject = "test1-005"
+def uatProject = "test2-005"
+def prodProject = "test3-005"
 def appName = "spring-boot-hello-world"
 
 node('maven') {   
