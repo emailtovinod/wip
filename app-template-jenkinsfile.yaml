@@ -39,11 +39,11 @@ parameters:
 - description: The name of Dev project
   name: DEV_PROJECT
   required: true
-  value: ocp-tasks-4
+  value: test1
 - description: Git source URI for application
   name: SOURCE_URL
   required: true
-  value: https://github.com/sainag9/spring-boot-hello-world
+  value: https://github.com/emailtovinod/wip.git
 - description: Git branch/tag reference
   name: SOURCE_REF
   value: master
